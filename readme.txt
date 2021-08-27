@@ -1,0 +1,8 @@
+In this project there is comparison of different machine learning algorithms such as Convolutional Neural Network (CNN), Recurrent Neural Network (RNN), and Fuzzic logic on Wisconsin Breast Cancer Diagnosis (WBCD) dataset for the detection of breast cancer in women. The test accuracies are compared to show the efficient algorithm for the detection of breast cancer using those algorithms. The dataset is partitioned to 70% training data and 30% testing data. 
+dataset description:
+Wisconsin Breast Cancer Diagnosis (WBCD) dataset is used in this work. Which is considered from UCI repository. This data is collected by Dr. William H. Wolberg from general surgery dept., W. Nick Street from computer science dept., Olvi L. Mangasarian from computer science dept. from university of Wisconsin.
+The dataset consists of the Fine Needle Aspirate (FNA) from a digitized image of the breast mass. It consists of 569 instances with 32 attributes, there are 10 real valued features which are computed for each nucleus of the cell such as a) radius, b) texture, c) perimeter, d) area, e) smoothness, f) compactness, g) concavity, h) concave points, i) symmetry and j) fractal dimension these features are computed on masses of breasts which can be divided to M= malignant and B= benign for diagnosis, this sample consist of 212 malignant tumors and 357 benign tumors.
+you can download dataset from - Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
+https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+
+you can run the code and the accuracy can be obtained
